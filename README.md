@@ -13,23 +13,23 @@ also contains [cpplint][cpplint], a tool to assist with style guide compliance,
 and [google-c-style.el][emacs], an Emacs settings file for Google style.
 
 
-[cpp]: https://google.github.io/styleguide/cppguide.html
-[csharp]: https://google.github.io/styleguide/csharp-style.html
+[cpp]: https://angelbots1339.github.io/cppguide.html
+[csharp]: https://angelbots1339.github.io/csharp-style.html
 [swift]: https://google.github.io/swift/
 [objc]: objcguide.md
-[java]: https://google.github.io/styleguide/javaguide.html
-[py]: https://google.github.io/styleguide/pyguide.html
-[r]: https://google.github.io/styleguide/Rguide.html
-[sh]: https://google.github.io/styleguide/shellguide.html
-[htmlcss]: https://google.github.io/styleguide/htmlcssguide.html
-[js]: https://google.github.io/styleguide/jsguide.html
-[ts]: https://google.github.io/styleguide/tsguide.html
-[angular]: https://google.github.io/styleguide/angularjs-google-style.html
-[cl]: https://google.github.io/styleguide/lispguide.xml
-[vim]: https://google.github.io/styleguide/vimscriptguide.xml
-[cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
+[java]: https://angelbots1339.github.io/javaguide.html
+[py]: https://angelbots1339.github.io/pyguide.html
+[r]: https://angelbots1339.github.io/Rguide.html
+[sh]: https://angelbots1339.github.io/shellguide.html
+[htmlcss]: https://angelbots1339.github.io/htmlcssguide.html
+[js]: https://angelbots1339.github.io/jsguide.html
+[ts]: https://angelbots1339.github.io/tsguide.html
+[angular]: https://angelbots1339.github.io/angularjs-google-style.html
+[cl]: https://angelbots1339.github.io/lispguide.xml
+[vim]: https://angelbots1339.github.io/vimscriptguide.xml
+[cpplint]: https://github.com/Angelbots1339/angelbots1339.github.io/tree/gh-pages/cpplint
 [emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
-[xml]: https://google.github.io/styleguide/xmlstyle.html
+[xml]: https://angelbots1339.github.io/xmlstyle.html
 [go]: https://golang.org/wiki/CodeReviewComments
 [dart]: https://www.dartlang.org/guides/language/effective-dart
 [ccl]: https://creativecommons.org/licenses/by/3.0/
